@@ -33,3 +33,8 @@ anpr_Yolo10_PaddleOCR/
 ├── coco.txt # Class labels ("license_plate")
 ├── ANPR_Detection.ipynb # Main Colab notebook
 └── requirements.txt # Python dependencies
+
+
+## 📸 Results
+
+![Detection Example](resul1.png)  

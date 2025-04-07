@@ -1,0 +1,7 @@
+train: /content/gdrive/MyDrive/Projects/anpr_Yolo10_PaddleOCR/data/images/training  
+val: /content/gdrive/MyDrive/Projects/anpr_Yolo10_PaddleOCR/data/images/validation  
+
+# Number of classes
+nc: 1
+# Class names
+names: ['license_plate']  

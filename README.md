@@ -25,14 +25,18 @@ An end-to-end Automatic Number Plate Recognition system using **YOLOv10** for de
 anpr_Yolo10_PaddleOCR/
 ├── weights/
 │ └── best.pt # Custom-trained YOLOv10 weights
+
 ├── data/ # Dataset (images + annotations)
 │ ├── train/
 │ ├── val/
 │ └── data.yaml # YOLO dataset config
+
 ├── nr.mp4 # Sample video
+
 ├── coco.txt # Class labels ("license_plate")
+
 ├── ANPR_Detection.ipynb # Main Colab notebook
-└── requirements.txt # Python dependencies
+
 
 
 ## 📸 Results

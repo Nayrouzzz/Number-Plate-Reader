@@ -37,4 +37,4 @@ anpr_Yolo10_PaddleOCR/
 
 ## 📸 Results
 
-(result/result1.png)
+![result](result/result1.png)
